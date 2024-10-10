@@ -1,7 +1,8 @@
 # 🛒Shopping List API 📃
-
-![alt text](octocat-13.png)
-
+<div align="center">
+<img src="octocat-13.png" alt="alt text" width="300" height="300"/>
+</div>   
+<br>
 This is a simple Shopping List API built with Express.js and Supabase. 
 
 The API allows you to add, retrieve, update, and delete items from a shopping list.
