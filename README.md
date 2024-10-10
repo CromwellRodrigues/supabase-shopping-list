@@ -1,6 +1,6 @@
 # 🛒Shopping List API 📃
 
-![alt text](.png)
+![alt text](octocat-13.png)
 
 This is a simple Shopping List API built with Express.js and Supabase. 
 
