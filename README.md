@@ -1,5 +1,7 @@
 # 🛒Shopping List API 📃
 
+![alt text](.png)
+
 This is a simple Shopping List API built with Express.js and Supabase. 
 
 The API allows you to add, retrieve, update, and delete items from a shopping list.
